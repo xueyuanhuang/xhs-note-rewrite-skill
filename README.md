@@ -15,6 +15,10 @@
 - `SKILL.md`：skill 主说明与执行流程。
 - `agents/openai.yaml`：Codex/OpenAI agent 展示配置。
 
+## 配套工具
+
+- [社媒助手](https://smzs.xisence.com/download)：用于抓取小红书等平台的帖子数据，并导出包含笔记标题、正文、链接、话题、点赞量、收藏量等字段的表格。这个 skill 可以接收社媒助手导出的 Excel/CSV 文件作为输入，再继续完成筛选、模板提炼、联网拓展和批量生成。
+
 ## 示例文件
 
 示例目录：[examples/xhs_note_ai_invest_20260521_1420](examples/xhs_note_ai_invest_20260521_1420)
